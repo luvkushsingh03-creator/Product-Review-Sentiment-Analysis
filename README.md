@@ -57,5 +57,8 @@ sentiment-analyzer/
 6. Trains a Logistic Regression model
 7. Takes user input and predicts sentiment in real time
 
+#Dataset
+Download form this link : https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
+
 # Author
 Made by Luvkush Singh
