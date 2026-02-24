@@ -15,10 +15,10 @@ Uses the **Datafiniti Amazon Consumer Reviews** dataset.
 - Rename it to: `Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv`
 
 
-========================================
+
       MODEL READY!
-      Accuracy : 91.5%
-========================================
+    Accuracy : 91.5%
+
 
 ----------------------------------------
 Your Review: This product is absolutely amazing!
